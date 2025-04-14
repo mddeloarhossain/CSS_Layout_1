@@ -24,15 +24,23 @@
 	width: 33.33%;
 	height: 130px;
 }
-.section1{
+.teal{
 	background-color: teal;
 }
-.section2{
+.aqua{
 
 	background-color: aqua;
 }
-.section3{
+.gray{
 	background-color: gray;
+}
+.red{
+	background-color: red;
+}
+.item2{
+	float: left;
+	width: 25%;
+	height: 130px;
 }
 .footer{
 /*	clear: both;*/
